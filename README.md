@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fill:96:96/1*pXJsGkCMCAnf-5xOjZYx4w.gif" alt="Your Alt Text" width="48" height="48">
+</p>
 
-<!--
-**cmdsnr/cmdsnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
+Programming Languages & Markup Langauges: 
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,bash,ts,js,html,css,scss)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks, Databases & Backend:
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,express,firebase,mongodb)](https://skillicons.dev)
+
+More:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,arduino,cpp,cloudflare,powershell,raspberrypi,vite)](https://skillicons.dev)
+
