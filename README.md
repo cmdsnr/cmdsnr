@@ -20,5 +20,5 @@ Additional:
 
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-%23E4405F.svg?logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/VUXRSS)
 [![HTB-LABS](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/1540330)
-[![HTB-CTFs](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://ctf.hackthebox.com/user/profile/209461)
+[![HTB CTF](https://img.shields.io/badge/HTB-CTF-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://ctf.hackthebox.com/user/profile/209461)
 [![picoCTF](https://img.shields.io/badge/-picoCTF-red?style=for-the-badge)](https://play.picoctf.org/participants/108988)
