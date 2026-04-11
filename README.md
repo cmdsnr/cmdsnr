@@ -9,14 +9,14 @@ Programming Languages & Markup Langauges:
 
 Frameworks, Databases & Backend:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,express,firebase,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,express,firebase,mongodb,mysql,postgres)](https://skillicons.dev)
 
 More:
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,linux,arduino,cpp,cloudflare,powershell,raspberrypi,vite)](https://skillicons.dev)
 
 
-Additional:
+CTF Profiles:
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23E4405F?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/VUXRSS)
 [![HTB Labs](https://img.shields.io/badge/HTB-Labs-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1540330)
